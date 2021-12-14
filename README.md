@@ -1,7 +1,7 @@
 # PicoCTF-KunciJawaban
 Projek ini berisikan soal soal PicoCTF dan juga pembahasannya yang dibahas dalam bahasa Indonesia. Berikut pembahasan dari PicoCTF ini:
 
-- [Obedient Cat](PicoCTF-KunciJawaban/001.%20Obedient%20Cat%20(SOLVED)/README.md)
+- [Obedient Cat](/001.%20Obedient%20Cat%20(SOLVED)/README.md)
 - [Mod 26](PicoCTF-KunciJawaban/002.%20Mod%2026%20(SOLVED)/README.md)
 - [Python Wrangling](PicoCTF-KunciJawaban/003.%20Python%20Wrangling%20(SOLVED)/README.md)
 - [Wave a flag](PicoCTF-KunciJawaban/004.%20Wave%20a%20flag%20(SOLVED)/README.md)
