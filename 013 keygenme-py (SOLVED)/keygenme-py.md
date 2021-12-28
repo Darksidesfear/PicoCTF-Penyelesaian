@@ -1,5 +1,5 @@
 # keygenme-py
-### Description
+## Description
 
 [keygenme-trial.py](https://mercury.picoctf.net/static/a6d9cac3bfa4935ceb50c145d3ff5586/keygenme-trial.py)
 ## Hints
@@ -9,7 +9,7 @@ Pertama buka file keygenme-trial.py
 disitu kita bisa melihat kode
 ![](Screenshot%20from%202021-12-23%2023-55-45.png)
 disini saya bisa mengambil kesimpulan bahwa flag tersusun dari
-```a
+```
 key_full_template_trial = key_part_static1_trial + key_part_dynamic1_trial + key_part_static2_trial
 ```
 kalau kita susun menjadi "picoCTF{1n_7h3_|<3y_of_xxxxxxxx}" disitu saya mencoba untuk memasukkan flagnya, tapi hasilnya nihil. Saya mengambil kesimpulan bahwa "xxxxxxxx" merupakan banyak digit dari program tersebut.

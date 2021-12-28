@@ -7,8 +7,9 @@ Pakai ini untuk melihat extensi file yang sebenarnya
 >file cat.jpg
 
 buka terminal:
->exiftool cat.jpg
-
+```
+exiftool cat.jpg
+```
 cari kode yang mencurigakan seperti ini
 >cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
 
